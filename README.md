@@ -1,8 +1,8 @@
-# Contiene los siguientes archivos:
-index.html: Pantalla de inicio de sesión.
+# El siguiente proyecto contiene los siguientes archivos:
+1- index.html: Pantalla de inicio de sesión.
 
-menu.html: Menú principal.
+2- menu.html: Menú principal.
 
-styles.css: Estilos.
+3- styles.css: Estilos.
 
-script.js: Código JavaScript.
+4- script.js: Código JavaScript.
